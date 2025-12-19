@@ -1,4 +1,6 @@
-streamlit
+streamlit>=1.52.2
+openai
+python-dotenv
 supabase
 razorpay
 
